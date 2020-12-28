@@ -1,0 +1,607 @@
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
+"Senior Data Scientist , Advanced Analytics",$123K - $199K (Glassdoor est.),"Senior Data Scientist
+Raytheon Missiles & Defense (RMD)
+Digital Technology, Advanced Analytics
+Andover, MA
+
+Are you a self-driven problem solver and continuous learner with a passion for data, applied statistics, machine learning, programming and visualization? If so, you might be interested in the opportunity to join RMD’s Digital Technology Advanced Analytics team as a Data Scientist.
+
+RMD seeks an entrepreneurial analyst capable of working across functional areas with minimal supervision in order to support the application of data science / software engineering methods and techniques for production scale internal use and external research. The successful candidate will work with stakeholders and the Advanced Analytics team to develop analytic products for agile delivery. Products will span manufacturing, engineering, business development, supply chain, and quality control functions.
+
+At RMD, we work together as one global team creating trusted, innovative solutions to make the world a safer place. Our innovation spans all domains: from land and sea to air, space and cyberspace. We’re inspired by a noble mission that’s shared by RMD employees around the globe and an inclusive culture that empowers employees and celebrates their contributions.
+
+This role will be based in Andover, MA. Please note that limited capped budget relocation support will be provided to the selected applicant if they are eligible per company policy. The amount will be discussed at the appropriate stage of our process.
+
+Required Skills:
+Demonstrated experience meeting with business stakeholders to identify and develop requirements for strategic use cases and research and development opportunities
+Specific use and application of Python (numpy, scipy, pandas, scikit-image, and scikit-learn) to statistical and/or machine learning applications beyond academic examples
+Effectively communicate statistical/mathematical techniques to non-technical audiences and senior leadership
+Collaborate with data owners and technology teams to source data sets required for analyses
+Apply quantitative techniques (normalization, applied statistics) to cleanse and explore large, complex data sets in preparation for further analysis
+Apply data reduction, feature selection, and feature engineering techniques
+Develop and implement hypothesis tests
+Review, enhance, and quality assure operationalized algorithms and models
+Iterate on and/or create repeatable, reusable processes and scalable data products with the advanced analytics team
+Maintain contemporary expertise on new data science methods, technologies, industry trends and open source packages
+Eligibility to obtain a US Govt. Dept. of Defense Secret Clearance as necessary for future projects that require it. Except in rare cases, only US Citizens are eligible to obtain US Clearances.
+Desired Skills:
+Proficiency with at least one deep learning framework such as PyTorch, TensorFlow, Keras, Theano or Caffe
+It is important that candidates demonstrate the ability to articulate application of said skills to business results rather than purely academic endeavors.
+Familiarity with CNN architectures such as ResNet, Inception, XCeption, NASNet, VGG, UNet, Stacked Hourglass, MobileNet, pix2pix, and CycleGAN
+Experience with data visualization applications such as Tableau, Microsoft PowerBI, SAP Lumira, etc.
+Ability and eagerness to learn, educate and mentor others
+Experience in diverse domains (manufacturing operations, supply chain, finance, engineering, information technology, business development, quality control)
+Experience with commercial software development processes: good software hygiene regarding code documentation, unit testing, bug tracking and version control
+Familiarity deploying machine learning models in public cloud services such as AWS, Azure, or Google Cloud Platform
+Track record of GPU programming, network optimization and deployment for data science applications
+Required Education (including Major):
+Bachelor’s or higher degree in Statistics, Econometrics, Engineering, Computer Science, Finance, Mathematics or a quantitative degree in other social science or hard science fields
+
+This position requires either a U.S. Person or a Non-U.S. Person who is eligible to obtain any required Export Authorization and required US Security Clearance.
+166749
+Raytheon Technologies is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, age, color, religion, creed, sex, sexual orientation, gender identity, national origin, disability, or protected Veteran status.",3.8,"Raytheon Missiles & Defense
+3.8","Andover, MA",-1,10000+ Employees,2020,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),-1
+Data Scientist 2,$52K - $95K (Glassdoor est.),"Description
+Digital Health and Analytics within Humana is dedicated to transform members’ health experience and Humana’s services using technology and analytics. We are looking for a Data Scientist 2 who will design studies and utilize cutting-edge predictive modeling techniques, test rigorous hypotheses, and turn data and insights into actionable plans. Being part of talented team of data scientists with broad skills and applications, the Data Scientist will work cross-functionally and collaboratively with teams across the enterprise through innovative R&D, machine learning, and cutting-edge platforms. The scope of our work includes forecasting, predictive modeling, designing business experiments, and ROI studies. The ideal candidate will have hands-on experience on healthcare data, demonstrated innovative and creative methods for overcoming testing constraints, as well as successfully applying machine learning techniques to address business needs.
+Responsibilities
+The Data Scientist 2 develops, maintains, and collects structured and unstructured data sets for analysis and reporting. Creates reports, projections, models, and presentations to support business strategy and tactics. Understands department, segment, and organizational strategy and operating objectives, including their linkages to related areas. Makes decisions regarding own work methods, occasionally in ambiguous situations, and requires minimal direction and receives guidance where needed. Follows established guidelines/procedures.
+Responsibilities
+Develop and validate statistical forecasting models or predictive models and tools
+Research and evaluate innovative analytical methodologies, approaches, and solutions
+Collaborate with analytic and data teams to set objectives, approaches, and work plans
+Interprets and communicates analytic results to analytical and non-analytical business partners
+Understands department, segment, and organizational strategy and operating objectives, including their linkages to related areas
+Make decisions regarding own work methods, occasionally in ambiguous situations, and requires minimal direction and receives guidance where needed
+
+Required Qualifications
+Master's Degree in a quantitative discipline, such as Computer Science, Mathematics or Statistics and/or related quantitative field
+2+ years of experience in advanced data analytics
+Demonstrated experience with SAS, SQL, MATLAB, DataRobot, Python or similar statistical and scripting tools
+Experience developing and validating statistical forecasting models or predictive models
+Experience interpreting and communicating analytic results to analytical and non-analytical business partners
+Naturally curious and comfortable with ambiguity and demonstrate critical thinking
+Clear and concise oral and written communication skills, with a proven ability to translate complex methodologies and analytical results to non-technical business insights
+Strong interpersonal and consulting skills
+Preferred Qualifications
+PhD in a quantitative discipline, such as Computer Science, Mathematics or Statistics and/or related quantitative field
+Healthcare or managed care experience
+Experience building large-scale predictive models
+Experience in Big Data environment specifically PySpark and/or Databricks
+Experience in deep learning, natural language processing, and recommendation systems
+Additional Information
+This position is based on either Humana’s headquarters in Louisville-KY or Humana’s Studio-H in Boston-MA.
+Scheduled Weekly Hours
+40",3.9,"Humana
+3.9","Louisville, KY",-1,10000+ Employees,1961,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),-1
+Data Scientist - HCI,-1,"Data Scientist - HCI
+Long Beach, CA
+Full-time
+
+About SCAN
+As one of the nation’s largest not-for-profit Medicare Advantage plans, serving more than 200,000 members in California, SCAN Health Plan has been a mission-driven organization dedicated to keeping seniors healthy and independent for over 40 years. SCAN employees are passionate about what they do, and understand that success is based on achieving the mission. Employees are afforded with the training and tools necessary to do their jobs and are rewarded for their efforts and recognized as experts in their fields. To learn more, visit scanhealthplan.com or follow us on social media: LinkedIn; Facebook; and Twitter.
+
+The Opportunity
+The Data Scientist will support leadership and Healthcare Informatics teams with insights gained from analyzing company and external data to help make smarter decisions and drive better outcomes. You must be adept at using large data sets to find opportunities for quality improvement and process optimization. You must have strong experience using a variety of data mining/data analysis techniques, using a variety of data tools, building and implementing predictive models, using/creating algorithms upon structured and unstructured data. You must have a proven ability to drive business results with their data-driven insights. You must be comfortable working with a wide range of stakeholders and functional teams. The right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.
+
+You Will
+Work with stakeholders throughout the organization to identify opportunities for leveraging big data to drive business solutions.
+Mine and analyze data (both structured and unstructured data) from company databases and external data when needed to drive quality improvement, process optimization and business strategies.
+Select features, building and optimizing models using machine learning techniques.
+Process, clean, and verify the integrity of data used for analysis.
+Develop custom data models and algorithms to apply to data sets.
+Use predictive models to increase and optimize intervention targeting, coding accuracy, and other business outcomes.
+Do ad-hoc analysis and present results in a clear manner.
+Coordinate with different functional teams to implement models and monitor outcomes.
+Develop processes and tools to monitor and analyze model performance and data accuracy.
+
+Your Qualifications
+Master's Degree or PhD in Statistics, Mathematics, Computer Science, or another quantitative field.
+3-5 years of experience handling data sets and building statistical/machine learning models
+Excellent understanding of machine leaning techniques (clustering, decision tree learning, neural networks, etc.), the natural language processing techniques, and their real-world advantages/drawbacks.
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
+Experience with cloud computing is preferred, such as Microsoft Azure.
+Experience using common data science toolkits (R, Python, SAS, etc.) to handle data and draw insights from large data sets. Excellence in at least one of these is highly desirable.
+Proficiency in using query languages such as SQL.
+Excellent written and verbal communication skills for coordinating across teams.
+A drive to learn and master new technologies and techniques.
+
+What's in it for you? Qualified employees will receive:
+A competitive compensation and benefits program
+An annual employee bonus program
+Generous paid-time-off (PTO)
+Ten paid holidays per year
+Excellent 403(b) Saving Plan, providing up to 4% match and vesting after three years
+Casual attire
+A work-life balance and much more!
+
+We're always looking for talented people to join our team! Qualified applicants are encouraged to apply now!
+
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)",-1,SCAN Group,"Long Beach, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Research Scientist/ Senior Research Scientist,$88K - $167K (Glassdoor est.),"Research Scientist/ Senior Research Scientist
+AstraZeneca is a British-Swedish multinational pharmaceutical and biopharmaceutical company. Here, you'll have the opportunity to collaborate with renowned scientists to find the targets which are fundamental drivers of human disease. As one of the world's premier biotechnology companies, our mission is centered on groundbreaking, outstanding work that has a big impact on science and making a difference in people's lives every day.
+What you’ll do
+As a Senior Research Scientist in the COPD research team in the Respiratory and Immunology department (R&I) you will study the biology of human airway and alveolar epithelium with the focus on lung stem cells, immune cells, and pathogenesis of COPD disease. You will study growth factor pathways that regulate lung stem cell self-renewal and differentiation in health and disease, epithelial-mesenchymal and epithelial-immune interactions using patient airway models and patient-derived iPSCs at the tissue- and single-cell levels.
+you will also provide scientific input to the early stage of research and development. This includes study design, analysis, and interpretation of preclinical data and mechanistic studies in human-based 3D culture systems or animal models.
+Collaboration with colleagues within and beyond early R&I will be crucial for you to be successful in your role and you will work closely together with colleagues from Patient Safety, Discovery science, Translational science, and late R&I Groups.
+We will rely on you to:
+Lead and perform a range of lab-based experiments including generating 2D and 3D culture models, phenotyping diseased cells with cellular, molecular and functional assays.
+Isolated and utilized epithelial cells and immune cells from patients samples
+Make detailed observations, analyze data, and interpret results independently.
+Preparation of precise technical summaries, protocols, quantitative analyses, and maintenance of appropriate documentation.
+Oversee the day to day organization of different components of the projects.
+Work collaboratively with other members of the teams who are working on related research questions.
+Publish discoveries in high quality and impact journals.
+Essential for the role:
+Research Scientist
+Ph.D. in the field of cell biology, Molecular biology , immunology or a related field with 3-4 years postdoc or industry experience
+Senior Research Scientist
+Ph.D. in the field of Cell biology, Immunology, Molecular biology or a related field with 5-6 years postdoc or industry experience
+Additionally, you possess:
+The knowledge of lung biology, physiology, and disease, epithelial, and mesenchymal biology.
+Experience in stem cell culture and differentiation.
+Strong cell biology experience in tissue culture techniques, isolation, and culture of primary cells and the use of co-culture systems.
+Excellent skills in cellular and molecular biology techniques (Western blot, qRT-PCR, immunostaining, ELISA) and fluorescence imaging.
+Excellent analytic and problem-solving skills.
+Excellent written and verbal interpersonal skills and effective presentation of complex scientific data to cross-functional and senior management teams
+Proven ability to work independently and in collaborative team environments
+Desirable for the role
+Experience in advanced 3D imaging and single-cell RNA seq analysis.
+Experience in bioinformatics analysis and software
+Experience in the development of the in-vitro disease model and in vivo mouse models and subsequent analysis, including but not limited to COPD is a plus.
+Experience of leading and managing small group and cross-functional collaboration activities
+At AstraZeneca when we see an opportunity for change, we seize it and make it happen, because any opportunity no matter how small, can be the start of something big. Delivering life-changing medicines is about being entrepreneurial - finding those moments and recognizing their potential. Join us on our journey of building a new kind of organization to reset expectations of what a bio-pharmaceutical company can be. This means we’re opening new ways to work, pioneering groundbreaking methods and bringing unexpected teams together. Interested? Come and join our journey!
+So, what’s next!
+If you are ready to make a difference - apply today, and we'll make it happen together!
+We welcome your application no later than September 30th, 2020
+Where can I find out more?
+Follow AstraZeneca on LinkedIn https://www.linkedin.com/company/1603/
+Follow AstraZeneca on Facebook https://www.facebook.com/astrazenecacareers/
+Follow AstraZeneca on Instagram https://www.instagram.com/astrazeneca/
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are provided a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.",4.2,"AstraZeneca
+4.2","Gaithersburg, MD",-1,10000+ Employees,1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1
+Junior Data Analyst,-1,"*
+Chubb is seeking a creative, innovative, and collaborative Data Apprentice who is ambitious and hungry to learn. You will join the Analytics team and the digital professionals who are charged with ensuring Chubb thrives in the Digital Age. *WhiteHat is the training provider for this apprenticeship and Chubb is the employer*
+*
+A typical day
+Communicating with both technical and non-technical groups on a regular basis to pass along important information.
+Identifying business-specific rules related to datasets and data characteristics that will influence project design and analysis.
+Describe the data analytics lifecycle and set out details, activities and roles at each stage in a real-world example.
+Understand Data Science including programming basics, foundations of data modelling, research design and exploratory analysis, machine learning, and Big Data fundamentals.
+Develop a solid working knowledge of how current systems and data sources are populated and sourced.
+Assist in documentation of accuracy and availability of various data elements and variables.
+Understanding normalized relational databases and understand how and why the principles are applied.
+Identifying starting points for overcoming project and technical problems.
+Implementing quality control measures and know how to assure the quality of data uploads and query output.
+Understand data regulation and how it impacts your role.
+Designing effective project briefs which communicate expectations to stakeholders.
+You must have:
+High School Diploma or GED
+Be over the age of 18
+Skills needed:
+Individuals with an interest in math, science or technology. A desire to learn programming is a plus
+Experience with Microsoft Office applications, especially Excel
+Strong analytical background and a strong sense of personal ownership over work
+Strong research capability
+Excellent, clear and concise verbal and written communication skills
+Self-motivated, passionate technical professional, driven to achieve committed milestones
+Ability to multi-task and work independently with little supervision
+Excellent attention to detail in a complex, deadline-oriented environment
+Training required:
+Training on the 12 month, fully employed Data Analytics apprenticeship.
+Being a WhiteHat apprentice means access to awesome social events, sports teams, insight/career days with other apprentices to grow your network, as well as your own personal Coach who will guide you through the qualification to help you achieve your full potential.
+As part of your WhiteHat Apprenticeship, you will have access to our Future Leaders Foundation modules to develop 6 key competencies, underpinned by well-being, self-awareness, motivation, conscientiousness, effectiveness and grit.
+Future prospects
+After your Data Analysis Apprenticeship, you can progress into any Junior Data Analyst, Data Scientist and Data engineer role. You'll have the skills to run insight analytical projects from beginning to end and work within a Data Analytics team.
+Job Types: Full-time, Contract
+Salary: $17.00 per hour
+Schedule:
+Monday to Friday
+Education:
+High school or equivalent (Preferred)
+Contract Renewal:
+Possible
+Work Location:
+One location
+This Company Describes Its Culture as:
+Detail-oriented -- quality and precision-focused
+Innovative -- innovative and risk-taking
+Team-oriented -- cooperative and collaborative
+Company's website:
+https://www.chubb.com/us-en/
+Company's Facebook page:
+https://www.facebook.com/ChubbGlobal/
+Work Remotely:
+Temporarily due to COVID-19
+COVID-19 Precaution(s):
+Remote interview process",-1,WhiteHat,"Jersey City, NJ",-1,-1,-1,-1,-1,-1,-1,-1
+Data Scientist,$87K - $142K (Glassdoor est.),"At Farm Credit Mid-America, we believe people are our strongest asset. We are consistently looking to hire individuals from a wide range of experience and capabilities who have a desire to serve. Currently, we have over 1,400 employees across Indiana, Ohio, Kentucky and Tennessee.
+BASIC FUNCTION : The Data Scientist focuses on using advanced analytics in support of the Association’s strategic objectives. This position is responsible for performing sophisticated data analytics (encompassing data mining, statistical analysis, predictive analytics, for example), and developing, documenting and supporting the deployment of quantitative models and other analytics tools. Identifies actionable insights from data that measurably improve business outcomes and/or reduce risk. Collects and prepares data for analysis, performs exploratory to advanced predictive and/or modeling analytics, and identifies data relationships (patterns and trends). Provides consultation to business leaders and other stakeholders on how to leverage analytic insights to build actionable strategies. Projects may include but not be limited to: automated credit decisioning, risk rating models, loan performance forecasting and analytics and model validation.
+MAJOR RESPONSIBILITIES :
+QUANTITATIVE MODELING: Participate in the design, implementation and maintenance of automated credit decisioning and loss forecasting models. For deployed models, develop and execute ongoing model validation processes in accordance with Farm Credit Mid-America Model Risk Management and Model Governance policies and industry best practices.
+SPECIALIZED AND ADVANCED ANALYSIS: Applies advanced analytical skills and experience to research complex topics, design analysis methodologies, and apply problem solving skills in performing ad hoc analysis projects.
+CREDIT & RISK EXPERTISE: Continually build expertise in agricultural and consumer credit, finance and technology to support being an active partner and risk management resource for the Credit Department and other departments across the Association.
+COLLABORATION: Represent the Risk Management department on applicable Association committees, workgroups or project teams. Coordinate with other Farm Credit System (FCS) institutions and FCS workgroups as applicable.
+Corporate mission and values: Embraces and represents the mission and values of Farm Credit Mid-America and complies with its conduct, security and confidentiality policies and procedures.
+OTHER DUTIES: Performs other duties as assigned.
+MINIMUM REQUIREMENTS and GRADING GUIDELINES
+
+Education and Experience
+Bachelor’s degree in statistics, mathematics, finance, economics, or related fields. Advanced degree or in analytics field, certifications in analytics, or Charter Financial Analyst designation preferred. Five or more years of progressively-responsible experience in risk management, credit, finance, or data science with at least one year of experience in credit risk modeling or equivalent.
+
+KNOWLEDGE, SKILLS AND ABILITIES :
+Knowledge of: Statistical methods, time-series analysis, machine learning, and programming; principles, policies and practices applicable to agricultural and residential lending; critical economic, political and industry issues; loan origination and accounting systems; and business automation and relational databases.
+Skills in: Business computer applications; advanced data analysis and validation; data science; computer-based modeling and validation; problem solving; decision making; verbal and written communication; interpersonal skills; tact and diplomacy; mediating and influencing solutions to problems; and relevant software such as SQL, VBA, R and SAS.
+Ability to: Be innovative and creative balanced with logic and objectivity; positively influence others; and exercise sound judgment. Be flexible, efficient, disciplined and accurate; work with interruptions; work independently; achieve goals; accept and implement corporate strategies; demonstrate corporate values; relate positively to others; listen; work under stress; overcome objections; and professionally represent Farm Credit Mid-America. Conduct increasingly advanced computer analysis in analyzing and developing solutions to complex issues and risks; aggressively leverage technology; and thoughtfully evaluate, accept and manage balanced business risks.
+MENTAL AND PHYSICAL REQUIREMENTS :
+This job requires the incumbent to have the ability to…
+Engage in telephone and face-to-face conversation to serve customers and give and receive information from customers, staff, vendors, outside consultants and the public.
+Use computer. This involves reading the screen and keying/typing information.
+Speak and make presentations to individuals or groups on technical subjects related to job.
+Travel via auto or commercial transportation to carry out essential responsibilities of the job.
+Successfully interact with and represent the organization to customers, staff, officers, board members, vendors, and/or the public at all levels.
+Provide sound technical advice to customers and other staff in the subject field(s) related to this position.
+Understand and explain various subject matter and consulting concepts, programs, terminology, and methods.
+Reason, judge, compare, calculate, evaluate, decide, and critique such information as written material, numerical data, responses to customer needs, and/or other related work activities.
+Requirements of the job include the ability to do the work, with or without reasonable accommodations. It is the Association's policy to make reasonable accommodations for individuals with disabilities. Leadership retains the right to add, subtract or change duties of the position at any time.
+This document does not create an employment contact, implied or otherwise, other than an “at will” employment relationship.
+We are proud to be an EEO/AA employer M/F/D/V.
+Here's What We Can Offer You...
+Farm Credit Mid-America has an outstanding Total Rewards package, which includes, but is not limited to:
+Salary commensurate with experience
+15 vacation days, 15 sick days, and 11 paid holidays per year
+401(k) plan with outstanding match
+Medical, Dental, Vision, STD, LTD, Life/AD&D benefits, etc.
+Fitness Incentive Program
+Tuition assistance for employee and dependents
+IND123
+Farm Credit Mid-America is an Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, veteran status, disability or any other category protected by law.",4.1,"Farm Credit Mid-America
+4.1","Louisville, KY",-1,1001 to 5000 Employees,1985,Company - Private,Lending,Finance,$100 to $500 million (USD),-1
+"AVP, Data Science for Personal Lines",$88K - $144K (Glassdoor est.),"AVP, Data Science for Personal Lines
+Worcester, MA, USA Req #13437
+Thursday, November 5, 2020
+Our Personal Lines (PL) Actuarial and Data Science department is seeking an AVP, Data Science to join our growing team in our corporate home office located in Worcester, MA.
+
+Position summary:
+Leads a data science team that leverages data and advanced statistical methods to provide insight into operational performance that is applied to implementing solutions and improving business results. Builds consultative relationships with business partners to ensure a shared understanding of initiative goals and effective application and monitoring of solutions. Directs and oversees the prioritization of projects and is well-versed in current and emerging analytical approaches and methodologies. Presents insight and recommendations to senior leadership for decision making and strategic planning. Leads data strategy to develop and maintain internal/external information sources for business analysis on behalf of personal lines. Works to recruit and retain skilled staff and state of the art analytical capabilities, while managing and developing staff in the daily performance of their jobs. Ensures that project/department milestones/goals are met and adhering to approved budgets.
+
+This is a full-time, exempt role.
+
+Responsibilities/Essential Functions:
+Supports personal lines high-level strategy formulation and oversees prioritized strategic and tactical projects to achieve targeted business results. Provides leadership in developing data science projects and executing and implementing their findings. Partners with PL business functions to identify and scope specific tactical initiatives and solve business problems and help them measure performance against targeted results. Lead the PL Data Science Steering Committee and provide regular updates to senior management on team performance and progress against the annual research agenda.
+Supports personal lines high-level strategy formulation and oversees prioritized strategic and tactical data science projects to achieve targeted business results.
+Partners with PL business functions to identify specific data science tactical initiatives and solve business problems and help them execute and measure performance against targeted results.
+Establish strategic vision and implement stewardship and governance practices that ensure data integrity and accuracy and explore opportunities to enhance and/or add to both internal and external data available for analysis.
+Lead the PL Data Science Steering Committee and provide regular updates to senior management on team performance and progress against the annual research agenda.
+
+Additional Responsibilities:
+Work with Personal Lines leadership and the data science steering committee in strategy formulation and data science research agenda
+Work with business partners to scope and develop balance of data science project portfolio.
+Research, analyze and define requirements from key stakeholders on new analytics models, platforms and technologies to significantly improve operational efficiency and effectiveness, growth, profitability and agent/ customer experience.
+Partner with business functions to execute on each project and deliver targeted business results.
+Lead the development and implementation of programs and processes that drive strong internal and external data to support advanced analytics and effective monitoring and analysis of results across personal lines.
+Advocates for data as an asset and strategic competitive advantage.
+Position Requirements:
+Bachelor’s degree required. Advanced level degree or equivalent experience strongly desired.
+Over five years of practical data science and advanced analytics experience.
+Project Management certification desired.
+Insurance industry data analytics experience.
+Prior people management experience required; strong people management skills, effective at coaching and motivating staff. Serves as a role model in building effective relationships.
+Hires and develops talented and intellectually curious people to foster continuing innovation and deliver exceptional data solutions.
+Creates an environment that encourages and values the opinions of others and promotes sharing of information and ideas.
+Collaborative problem solver, who takes ownership of issues, to deliver successful business solutions.
+Anticipates needs of the customer and takes a proactive approach to ensure they are met.
+Ability to negotiate skillfully in difficult situations with both internal and external groups.
+Demonstrated project management skills for effectively running projects with high degree of ambiguity.
+Effectively and creatively utilizes all resources (systems, people, etc.) to manage daily operations.
+Strong verbal and written communication skills.
+EEO statement:
+“The Hanover values diversity in the workplace and among our customers. The company provides equal opportunity for employment and promotion to all qualified employees and applicants on the basis of experience, training, education, and ability to do the available work without regard to race, religion, color, age, sex/gender, sexual orientation, national origin, gender identity, disability, marital status, veteran status, genetic information, ancestry or any other status protected by law.
+
+Furthermore, The Hanover Insurance Group is committed to providing an equal opportunity workplace that is free of discrimination and harassment based on national origin, race, color, religion, gender, ancestry, age, sexual orientation, gender identity, disability, marital status, veteran status, genetic information or any other status protected by law.”
+
+As an equal opportunity employer, Hanover does not discriminate against qualified individuals with disabilities. If you require a reasonable accommodation, as a candidate for employment, please inform The Hanover Talent Acquisition office.
+Privacy Policy:
+To view our privacy policy and online privacy statement, click here.
+
+Applicants who are California residents: To see the types of information we may collect from applicants and employees and how we use it, please click here.
+Other details
+Job Function
+Actuarial
+Pay Type
+Salary
+Required Education
+Bachelor’s Degree",4.0,"The Hanover Insurance Group
+4.0","Worcester, MA",-1,5001 to 10000 Employees,1852,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),-1
+Virology scientist,-1,"At Imanis, our multi-disciplinary team works together to positively impact the lives of cancer patients by developing novel gene and oncolytic virus therapies. We are looking for a dynamic and self-motivated scientist skilled in virology and immune-oncology to join us today. Together, we will define and deliver tomorrow’s medicines!
+Company Description:
+Imanis Life Sciences was founded in 2012 with the mission to accelerate the development of novel virus, gene and cell therapies through providing best in class reporter gene technologies and oncolytic virotherapies. The Imanis team is comprised of PhD, MSc and BSc level scientists who are passionate about providing the best in class oncolytic virotherapies. Our facilities are located in the Rochester Technology Campus in Rochester Minnesota, home of the world-renowned Mayo Clinic.
+Key Responsibilities
+· Independently design, rescue and characterize (in vitro) novel oncolytic VSV
+· Plan and execute scientific research projects under minimal supervision.
+· Collect, analyze, and present scientific data to the research and management teams; with proposed next steps.
+· Self-motivated and driven to work independently and collaboratively as part of a team.
+· Coordinate research efforts and make key scientific and technical contributions for the strategic development of cross-functional projects.
+The candidate will perform independent experimental research, but will work in close collaboration with the rest of the scientific team in a highly cross-functional and project-oriented environment.
+Qualifications/Skills
+· A Ph.D. or masters in Molecular/Cellular Biology, Biochemistry, Virology, Biophysics or a related field.
+· Must be proficient in cloning
+· Must have experience in the design, rescue and characterization (engineering) of negative sense single stranded RNA viruses or have the background and skills to master it in short period of time.
+· Structural understanding of viral proteins and proficiency in a structural imaging program eg. PyMOL.
+· Excellent organizational and time-management skills.
+· Ability to work independently and as part of a team.
+Valued Complementary Skills
+Cell and virus culture, Molecular biology, Immunology, Virology. Immunology: Flow cytometry, ELISA, antigen and antibody characterization. qPCR, RT-PCR, ELISA and ELISPOT. Viral analytics: virus rescue and amplification, plaque assay, TCID50, IFA, Cell-based assays: Cell proliferation and cytotoxicity assay, cell-signaling pathways (6 years), Molecular cloning of viral vectors for gene therapy or oncolytics.
+Type
+Full time
+Compensation and benefits
+Salary is commensurate with experience and qualifications. A comprehensive benefits package including:
+Paid Holidays
+PTO
+Health insurance
+Employer paid Short and Long Term Disability
+Life Insurance
+AD&D
+Dental/ vision Insurance
+Simple IRA with an employer match
+Work visa sponsorship is not available for this position.
+Job Type: Full-time
+Pay: From $65,000.00 per year
+Benefits:
+401(k) matching
+Dental insurance
+Disability insurance
+Flexible spending account
+Health insurance
+Life insurance
+Paid time off
+Parental leave
+Relocation assistance
+Vision insurance
+Schedule:
+Monday to Friday
+Supplemental Pay:
+Bonus pay
+Education:
+Doctorate (Preferred)
+Experience:
+Molecular cloning: 3 years (Preferred)
+Virology: 3 years (Preferred)
+eukaryotic cell culture: 3 years (Preferred)
+Company's website:
+www.imanislife.com
+Benefit Conditions:
+Waiting period may apply
+Work Remotely:
+No
+COVID-19 Precaution(s):
+Remote interview process
+Personal protective equipment provided or required
+Plastic shield at work stations
+Temperature screenings
+Social distancing guidelines in place
+Virtual meetings
+Sanitizing, disinfecting, or cleaning procedures in place",-1,Imanis Life Sciences,"Rochester, MN",-1,-1,-1,-1,-1,-1,-1,-1
+Lead Data Scientist,$94K - $155K (Glassdoor est.),"Description
+The Lead Data Scientist uses mathematics, statistics, modeling, business analysis, and technology to transform high volumes of complex data into advanced analytic solutions. The Lead Data Scientist works on problems of diverse scope and complexity ranging from moderate to substantial.
+Responsibilities
+The Lead Data Scientist develops, maintains, and collects structured and unstructured data sets for analysis and reporting. Creates reports, projections, models, and presentations to support business strategy and tactics. Advises executives to develop functional strategies (often segment specific) on matters of significance. Exercises independent judgment and decision making on complex issues regarding job duties and related tasks, and works under minimal supervision, Uses independent judgment requiring analysis of variable factors and determining the best course of action.
+Work closely with AI Implementation Lead to understand the key business feedback and implement in models when necessary
+Ability to work within other workstreams in an overflow capacity
+
+Required Qualifications
+PhD + 2 years’ experience, Master’s Degree + 4 years’ experience OR Bachelor’s Degree + 6 years’ experience.
+Data Analytics, Computer Science or related quantitative program.
+2+ years’ experience in project, process or people leadership
+Experience in using mathematics, statistics, modeling, business analysis, and technology to transform high volumes of complex data into advanced analytic solutions
+Successful demonstrated experience in working on problems of diverse scope and complexity ranging from moderate to substantial
+Experience in developing, maintaining, and collecting structured and unstructured data sets for analysis and reporting
+Experience in creating reports, projections, models, and presentations to support business
+Ability to exercise independent judgment and decision making on complex issues regarding job duties and related tasks
+Ability to works under minimal supervision, using independent judgment
+Must be passionate about contributing to an organization focused on continuously improving consumer experiences
+Preferred Qualifications
+PhD
+Additional Information
+Scheduled Weekly Hours
+40",3.9,"Humana
+3.9","Boston, MA",-1,10000+ Employees,1961,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),-1
+Senior Scientist - Bispecific Antibodies,$88K - $167K (Glassdoor est.),"At AstraZeneca, we put patients first and strive to meet their unmet needs worldwide. Working here means being entrepreneurial, thinking big and working together to make the impossible a reality. If you are swift to action, confident to lead, willing to collaborate, and curious about what science can do, then you’re our kind of person.
+About AstraZeneca in Gaithersburg, MD
+Our Gaithersburg, Maryland facility creates life-changing medicines for people around the world. This campus employs more than 3,500 experts in our field and is only a short drive from Washington, DC. This modern and vibrant scientific campus is the home of R&D and Oncology in the US. Here, we play host to some of the most cutting-edge technology and lab spaces, all designed to inspire collaboration and cross-functional science. We believe employees benefit from being challenged and inspired at work. We are dedicated to creating a culture of inclusion and collaboration.
+The Gaithersburg site offers a variety of amenities to help boost productivity and help keep our employees happy and healthy. This includes a fitness center, employee healthcare clinic, electric vehicle charging stations, dry cleaning, full-service cafeteria and copy center. This is where you’ll find newly-designed, activity-based work spaces to suit a variety of working styles while increasing collaboration between teams.
+Summary of the Group
+Antibody Discovery & Protein Engineering (ADPE) is responsible for the discovery and optimization of next generation biologics to create biological drug candidates for all key therapeutic areas such as oncology, respiratory and inflammation, cardiovascular, renal and metabolic diseases. We're constantly pushing the boundaries of science to deliver life-changing medicines to patients, with a passion for the development of in-house biologics discovery platforms and novel drug modalities to address unmet medical needs.
+Main Duties & Responsibilities
+Seeking a skilled and highly motivated Scientist to enhance our bispecific antibody-based platform technology efforts. The successful candidate will be excited by research at the interface where innovative technology meets Biology.
+Collaborate and work with a diverse group of scientists across all therapeutic areas to ensure timely progress in research projects and drive technological innovations
+Conceive, design, and execute the engineering of innovative bispecific antibodies with improved selectivity and developability
+Biochemical, biophysical and functional characterization of antibodies and bispecific modalities
+Prepare, analyze, and present data internally and externally
+Education & Experience Requirements
+PhD in Biotechnology, Molecular Biology, Biochemistry or other relevant scientific field with 5+ years of post-doctoral experience in antibody engineering and/or bispecific design.
+Required Skills
+Extensive hands-on experience in molecular biology and antibody engineering, including; design, expression, purification and biochemical/biophysical characterization of various bispecific antibody formats
+Proven ability to work independently, effectively plan and organize work activities and prioritize task completion to meet project deadlines
+Deep understanding of various imaging/multicolor flow cytometry-based instruments and data analysis programs
+Comprehensive experience in tissue culture techniques and functional cell-based assay development
+Demonstrated experience in optimizing/troubleshooting protocols with a problem-solving mindset
+Track record of scientific innovation as evidenced by scientific publications, patents and oral presentations at conferences
+Desired Skills
+Understanding of protein structure-function relationships and antibody structural remodeling
+Experience in engineering antibodies with improved properties (e.g., affinity, solubility, and other attributes related to developability)
+Background in antibody discovery using one of several display-based technologies
+Working knowledge of automation and high-throughput screening from bacterial or mammalian expression systems
+Experience in immunocytokine and T-cell engager
+Excellent written and verbal communication skills and effective presentation of complex scientific data to cross-functional and senior management
+Why AstraZeneca
+At AstraZeneca when we see an opportunity for change, we seize it and make it happen, because any opportunity no matter how small, can be the start of something big. Delivering life-changing medicines is about being entrepreneurial - finding those moments and recognising their potential. Join us on our journey of building a new kind of organisation to reset expectations of what a bio-pharmaceutical company can be. This means we’re opening new ways to work, pioneering cutting edge methods and bringing unexpected teams together. Interested? Come and join our journey.
+So, what’s next
+Are you ready to bring new ideas and fresh thinking to the table? Brilliant! We have one seat available and we hope it’s yours.
+Where can I find out more?
+Check out our landing page for more information on our BPD group https://careers.astrazeneca.com/bpd
+Our Social Media, Follow AstraZeneca on LinkedIn https://www.linkedin.com/company/1603/
+Follow AstraZeneca on Facebook https://www.facebook.com/astrazenecacareers/
+Follow AstraZeneca on Instagram https://www.instagram.com/astrazeneca_careers/?hl=en",4.2,"AstraZeneca
+4.2","Gaithersburg, MD",-1,10000+ Employees,1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1
+Spark/Big Data Engineer,$52K - $101K (Glassdoor est.),"The Data Consumption team of Decision Sciences and Transformation (DSaT) is seeking a highly motivated Spark / Big Data Developer to start or continue an IT career on the Big Data Platform project. Teaming up with architects, scrum masters, leads, managers and directors, you will work in an Agile environment to make the data on the Big Data Platform accessible for the needs of the organization through Atomic Models and Analytical Data Stores. In this role, you will coordinate with a variety of IT departments to elicit and translate high level business requirements into detailed system requirements. You will participate in the entire software development lifecycle by writing and executing test plans, finding solutions to issues during development and after deployment. You should be intellectually curious, have a solutions-oriented attitude and enjoy learning new tools and techniques.
+Basic Qualifications:
+At least two years of experience with SQL and Java or Scala
+Experience with manipulating and transforming data
+Exposure to NoSQL databases, Spark and the Hadoop Ecosystem (MapReduce, Oozie, Hive, Pig)
+Strong critical thinking, decision making, and problem-solving skills
+Excellent verbal/written communication skills, including communicating technical issues to non-technical audiences
+Bachelor’s degree in a computer related field or equivalent professional experience required
+Preferred Qualifications:
+Experience in designing efficient and robust ETL/ELT workflows, schedulers, and event-based triggers
+Experience with Spark core and Spark SQL
+Experience as a Big Data Developer
+Exposure to Data Mining, Data Engineering and Data Modeling
+Exposure to Graph Databases
+Note: The safety of our associates, both current and future, is GEICO’s highest priority. At this time, most of our associates are working remotely due to the current COVID-19 pandemic. Candidates who are selected for this position will be trained remotely and must be able to work from home in a designated work area. Once GEICO determines it is safe for associates to return to the office, candidates may be required to work in our Chevy Chase, MD office.
+Benefits:
+As Spark/Big Data Developer, you’ll enjoy our Total Rewards Program* to help secure your financial future and preserve your health and well-being, including:
+Premier Medical, Dental and Vision Insurance with no waiting period**
+Paid Vacation, Sick and Parental Leave
+401(k) Plan with Profit Sharing
+Tuition Reimbursement
+Paid Training and Licensures
+Benefits may be different by location. Benefit eligibility requirements vary and may include length of service.
+**Coverage begins with the pay period after hire date. Must enroll in New Hire Benefits within 30 days of the date of hire for coverage to take effect.
+The equal employment opportunity policy of the GEICO Companies provides for a fair and equal employment opportunity for all associates and job applicants regardless of race, color, religious creed, national origin, ancestry, age, gender, pregnancy, sexual orientation, gender identity, marital status, familial status, disability or genetic information, in compliance with applicable federal, state and local law. GEICO hires and promotes individuals solely on the basis of their qualifications for the job to be filled.
+GEICO reasonably accommodates qualified individuals with disabilities to enable them to receive equal employment opportunity and/or perform the essential functions of the job, unless the accommodation would impose an undue hardship to the Company. This applies to all applicants and associates. GEICO also provides a work environment in which each associate is able to be productive and work to the best of their ability. We do not condone or tolerate an atmosphere of intimidation or harassment. We expect and require the cooperation of all associates in maintaining an atmosphere free from discrimination and harassment with mutual respect by and for all associates and applicants.
+#LI-MW1",3.5,"GEICO
+3.5","Chevy Chase, MD",-1,10000+ Employees,1936,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD),-1
+Data Analyst,$40K - $73K (Glassdoor est.),"This position will be responsible for the development and maintenance of the company’s data analytic platform enabling business units to make decisions and achieve better outcomes for the company. A key partner promoting collaboration with cross-functional teams to design innovating reporting capabilities that provide key insights into cloud adoption, quality metrics and business KPI’s. The successful candidate must have knowledge of Business Intelligence, Data Warehousing, ETL database functionality and data modelling; effectively handle multiple work assignments, while consistently deliver high quality work; and will apply their experience in analytics, data visualization and modeling to find solutions for a variety of business and technical problems; querying and analyzing small and large data sets to discover patterns and deliver meaningful insights; and demonstrated ability to self-organize and prioritize multiple time-sensitive tasks on a daily basis.
+Essential Functions and Responsibilities:
+Azure Analysis Services - Tabular Modeling with development experience in Perspectives, Partitions and Design Aggregations
+Tabular Object Model (TOM), Analysis Management Object (AMO), Tabular Model Scripting Language (TMSL)
+Data Preparation, Profiling and ELT in the context of Tabular Model; Performance tuning of Tabular Models
+Experience with Power BI including visualization parameters, report optimization creating measures, Power BI modeling, Power BI Reports/Dashboards and SQL Reporting Services
+Understands high level technical solution & develop solution/code using Azure technology
+Development in Azure Data Factory including Pipelines, Datasets, and Data Flows
+Experience in development with data warehousing platforms
+Setup and Configure CI/CD pipelines using Azure DevOps
+Azure DevOps and Azure IaaS / PaaS environments
+Visual Studio and SQL Management Studio
+Azure SQL Database platforms including Azure SQL, and SQL Managed Instance
+Analysis Services row-level security and bi-directional relationships
+MDX, DAX, XMLA
+Handling Historical Data
+Interested in learning new technologies, creative, open-minded and a great team player
+Adept at task switching to handle varying workload
+Additional Functions and Responsibilities
+Work with System Testing and UAT teams to analyze and resolve opened defects
+Ability to do activities from Development to Deployment. Should be able to Code, Unit Test & Deploy
+Assists with other tasks and projects as requested
+Knowledge/Skills/Abilities
+Forward thinking information professional with a proven, in depth understanding of analytical and statistical approaches to transform the way in which data is translated into actionable intelligence while encompassing a customer focused culture.
+Proven experience in application development product delivery and project management with demonstrated skills in relationship building, negotiation, conflict resolution, agile leadership/mindset, and project management of multi-function teams.
+Ability to be able to learn quickly, always improving existing skills and developing new ones. Team working, helpful, open, and willing to share knowledge with colleagues
+Education & Background
+Bachelor’s degree in Computer Science, Information Technology, or equivalent work experience.
+4+ years of experience in designing, deploying, and maintaining SQL Server infrastructures.
+Azure SQL and Analytics Platforms
+ETL data integration with external data sources and SQL Server.
+Demonstrate a strong understanding of a range of BI tools, analysis techniques and visualization technologies, and be comfortable dealing with clients at all levels.
+Excellent written and verbal communication skills, interpersonal and collaborative skills.
+Other Requirements:
+These are physical and mental requirements of the position as it is typically performed. Inability to meet one or more of these physical or mental requirements will not automatically disqualify a candidate or employee from the position. Upon request for a reasonable accommodation, the Company may be able to adjust or excuse one or more of these requirements, depending on the requirement, the essential functions to which it relates, and the proposed accommodation.
+Physical Requirements: See; Color Perception; Hearing/Listening; Clear Speech; Manual Dexterity; Walk; Bend; Reach; Lifting - 25 Pounds; Sit, Stand.
+Mental/Reasoning Requirements: Reading-Complex; Writing- Complex; Clerical; Basic Math Skills; Analysis/Comprehension, Judgment/Decision Making
+Work Environment: Works Alone; Works with Others; Verbal Contact with Others; Face to Face Contact; Electrical Equipment;
+The above statements are intended to describe the general nature and level of work being performed by employees assigned to this classification. They are not intended to be construed as an exhaustive list of all responsibilities, duties and/or skills required for this position.
+Bell Partners, Inc. (“BPI” or the “Company”) is an equal employment opportunity employer. BPI’s policy is not to discriminate against any applicant or employee based on race, color, sex, religion, national origin, age, disability, pregnancy, military/veteran status, marital status, genetic information, gender identity, sexual orientation or any other basis protected by applicable federal, state, or local laws. BPI also prohibits harassment of applicants or employees based on any of these protected categories. It is BPI’s policy to comply with all applicable state and federal laws respecting consideration of unemployment status in making hiring decisions.
+Note to Applicants: Smoking is prohibited in all indoor areas of Bell Partners Inc. unless designated smoking areas have been established by a particular location in accordance with applicable state and local law.",3.6,"Bell Partners
+3.6","Raleigh, NC",-1,1001 to 5000 Employees,1976,Company - Private,Real Estate,Real Estate,$50 to $100 million (USD),-1
+Data Scientist,$97K - $155K (Glassdoor est.),"At American Family Insurance, we believe people are an organization’s most valuable asset, and their ideas and experiences matter. From our CEO to our agency force, we’re committed to growing a diverse and inclusive culture that empowers innovation that will inspire, protect, and restore our customers’ dreams in ways never imagined.
+
+American Family Insurance is driven by our customers and employees. That’s why we provide more than just a job – we provide opportunity. Whether you’re already part of our team in search of a new challenge or new to our company and ready for what’s next, you’re in the right place. Every dream is a journey that starts with a single step. Start your journey right here. Join our team. Bring your dreams.
+Job ID:
+R19602 Data Scientist (Open)
+Summary:
+Join the Machine Learning Research Team at American Family Insurance. The vision of this group is to provide innovative enterprise solutions inspired by ML, AI & data science through state-of-the-art research & assimilation. The research approach combines the art of the possible, product design, enterprise collaboration, and the research community. Research pillars include: Human in the Loop, Document Intelligence, Aerial Imagery, Process Optimization, AI-Based Data Management, & Knowledge Management. External Research Partnerships include: Mila, NIU, Stanford Data Science Consortium, The University of Chicago, National Robotics Engineering Center, and the American Family Insurance Data Science Institute at the University of Wisconsin.
+
+For more information on the team, please visit: https://www.ai-ml-amfam.com/
+
+Job Description:
+Primary Accountabilities
+Keeping abreast with latest advance of the research, tools and datasets of machine learning, deep learning and artificial intelligence. Be able to rapidly prototyping and testing innovative hypothesis. The resulted experiments and discoveries are of publication quality. Proactively lead and participate the publication processes.
+Leveraging machine learning, predictive modeling and operational research across a variety of problem domains or business initiatives in insurance, to support business partner objectives and business needs.
+Working with business partners, both internal and external, to identify new opportunities and challenges. Proactively brings in new and innovative ideas and approaches to develop business solutions. Working with business partners to develop problem definition, analytical approach, and research design for modeling projects.
+Working with product managers and engineering teams to accelerate the process from research proof of concept to product delivery.
+Working with business partners to develop problem definition, analytical approach, and research design for modeling projects.
+Representing team to coordinate and support internal and external machine learning research partners and projects
+Travel Requirements
+This position requires travel up to 10% of the time.
+Education and Licenses
+Master’s Degree in Mathematics, Statistics, Physics, Computer Sciences or Engineering, or related quantitative fields or equivalent experience. PhD degree is a plus.
+Specialized Knowledge and Skills Requirements
+Ability to work as part of a team and to communicate effectively.
+Demonstrated Verbal and Written communication abilities for presentations and publications
+Demonstrated solid fundamentals in machine learning
+Demonstrated proficiency with python, scikit learn, tensorflow, pytorch or one of similar machine learning and deep learning prototyping framework. Familiarity with version control for software development.
+Demonstrated strong willingness and capabilities to learn new technologies and to innovate in the machine learning space.
+Knowledge of the following areas is a plus:
+Knowledge Graph and representation learning
+NLP and language models
+Object detection and Computer Vision models
+Speech to text transcription
+Bandits algorithms and Reinforcement learning
+Other topics including meta learning, network quantization and pruning
+Project experiences of implementing AI technologies in real world applications is a plus
+Track record of publications is a plus
+Experience with access, manipulation and statistical analysis of large data sets is a plus.
+Experience with AWS, GCP and cloud computing is a plus
+Experience with software development and agile methodologies is a plus
+Additional Job Information:
+Depending on qualifications, candidates may be considered at different levels.
+Offer to selected candidate will be made contingent on the results of applicable background checks.
+Offer to selected candidate is contingent on signing a non-disclosure agreement for proprietary information, trade secrets, and inventions.
+We are open to hiring candidates to work remotely (anywhere in the USA). However, we are also open to candidates who will relocate to our headquarters location of Madison, WI or in our Seattle, WA or Chicago, IL locations. Relocation assistance may be available.
+#LI-Remote
+#IndeedLow
+Stay connected: Join Our Enterprise Talent Community !
+LI:DB1",3.7,"American Family Insurance
+3.7","Madison, WI",-1,5001 to 10000 Employees,1927,Company - Private,Insurance Carriers,Insurance,$5 to $10 billion (USD),-1
+Data Scientist,$93K - $152K (Glassdoor est.),"AIS has a workshare opportunity for a Data Scientist (TS/FSPOLY required) on a large, newly awarded contract. In this role you will develop machine learning, data mining, statistical and graph-based algorithms to analyze and make sense of datasets; prototype or consider several algorithms and decide upon final model based on suitable performance metrics.
+Roles and Responsibilities:
+Produce data visualizations that provide insight into dataset structure and meaning
+Work with subject matters experts (SMEs) to identify important information in raw data and
+develop scripts that extract this information from a variety of data formats (e.g., SQL tables, structured metadata, network logs)
+Incorporate SME input into feature vectors suitable for analytic development and testing
+Translate customer qualitative analysis process and goals into quantitative formulations that are coded into software prototypes
+Develop and implement statistical, machine learning, and heuristic techniques to create descriptive,
+predictive, and prescriptive analytics
+Develop statistical tests to make data-driven recommendations and decisions
+Develop experiments to collect data or models to simulate data when required data are unavailable
+Develop feature vectors for input into machine learning algorithms
+Identify the most appropriate algorithm for a given dataset and tune input and model parameters
+Evaluate and validate the performance of analytics using standard techniques and metrics (e.g.cross-validation, ROC curves, confusion matrices)
+Required Education, Experience and Skills
+Master's degree in a quantitative discipline(e.g., statistics, mathematics, operations research, engineering, or computer science).
+A Ph.D. in a quantitative discipline can be substituted for three years of experience
+Five years of experience analyzing datasets and developing analytics.
+Five years of experience programming with data analysis software such as R, Python, SAS, or MATLAB.
+An additional two years of experience in software development, cloud development, analyzing datasets or developing descriptive, predictive, and prescriptive analytics can be substituted for a Master's degree.
+U.S. Citizenship Required
+Must possess a TS/FSPOLY clearance
+EOE/AA Disability/Veteran",4.4,"Assured Information Security, Inc. (AIS)
+4.4","Fort Meade, MD",-1,201 to 500 Employees,2001,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),-1
+Senior Data Scientist,-1,"About Fracta
+Fracta.ai usesmachine learning and big data to optimize infrastructure investments – starting with water pipe network replacement solutions for water utilities worldwide. Our mission is to help utilities manage and conserve resources through the creation of intelligent infrastructure. Fracta gives utility companies the most comprehensive view of conditions, allowing them to optimize replacement decisions and reduce costs by as much as 40 percent.
+About the Role
+We are looking for a results-driven, motivated Senior Data Scientist who is passionate about creating world-class machine learning models and predictions. This is a very senior role which will allow you to test innovative techniques and models to improve the accuracy of our core algorithm and create a huge impact at the company. It is a role which requires creativity and a keen ability to solve difficult data problems. We take personal development seriously, so all members of the data science team receive mentoring and opportunities to grow in their careers.
+Required Qualifications
+Strong knowledge and experience in implementing machine learning in real-world applications – minimum 3 years of experience. Experience with structured data.
+Knowledge and ability to deal with challenging data problems such as data mining, feature definition and ML-based data cleaning.
+Demonstrated ability to work with highly imbalanced data sets
+Experience working with data in a cloud-based application (AWS, GCP, Azure)
+Knowledge of Python required, PyTorch and SQL (BigQuery) preferred
+Team player: able to solve problems as part of a team and coach junior engineers
+Desire and ability to work in a fast-paced, results-oriented start-up
+Position is based downtown Redwood City, CA, right by the Caltrain station.
+Job Type: Full-time
+Pay: From $100,000.00 per year
+COVID-19 considerations:
+We have COVID-19 procedures in place for the office.",-1,Fracta,"Redwood City, CA",-1,-1,-1,-1,-1,-1,-1,-1
